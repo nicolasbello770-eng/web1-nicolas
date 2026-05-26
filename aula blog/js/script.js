@@ -13,4 +13,4 @@ try}
     const html = await resposta.text();
 
     document.getElementById(conteudo).innerHTML = html;
-    
+
